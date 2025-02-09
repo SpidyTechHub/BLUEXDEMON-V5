@@ -1,5 +1,5 @@
 {
- "name": "BLUE-DEMON-V5",
+ "name": "BLUEXDEMON-V5",
  "version": "5.0.0",
  "description": "Simple whatsapp bot with multi device.",
  "main": "index.js",
@@ -11,7 +11,7 @@
  "scripts": {
   "start": "node index.js"
  },
- "author": "Demon_dev",
+ "author": "BLUE",
  "license": "MIT",
  "dependencies": {
   "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -59,7 +59,6 @@
   "object-query-string": "^1.2.0",
   "os": "^0.1.2",
   "parse-ms": "^2.1.0",
-  "path": "^0.12.7",
   "performance-now": "^2.1.0",
   "pino": "^7.2.0",
   "qrcode": "^1.5.1",
